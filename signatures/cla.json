@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "etraut-openai",
+      "id": 223546144,
+      "comment_id": 3716578224,
+      "created_at": "2026-01-06T22:21:54Z",
+      "repoId": 1103643573,
+      "pullRequestNo": 38
+    }
+  ]
 }
